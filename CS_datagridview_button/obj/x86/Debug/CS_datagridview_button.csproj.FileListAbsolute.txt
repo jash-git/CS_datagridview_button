@@ -1,0 +1,7 @@
+C:\Users\RD\Desktop\CS_datagridview_button\CS_datagridview_button\bin\Debug\CS_datagridview_button.exe
+C:\Users\RD\Desktop\CS_datagridview_button\CS_datagridview_button\bin\Debug\CS_datagridview_button.pdb
+C:\Users\RD\Desktop\CS_datagridview_button\CS_datagridview_button\obj\x86\Debug\CS_datagridview_button.Form1.resources
+C:\Users\RD\Desktop\CS_datagridview_button\CS_datagridview_button\obj\x86\Debug\CS_datagridview_button.Properties.Resources.resources
+C:\Users\RD\Desktop\CS_datagridview_button\CS_datagridview_button\obj\x86\Debug\CS_datagridview_button.csproj.GenerateResource.Cache
+C:\Users\RD\Desktop\CS_datagridview_button\CS_datagridview_button\obj\x86\Debug\CS_datagridview_button.exe
+C:\Users\RD\Desktop\CS_datagridview_button\CS_datagridview_button\obj\x86\Debug\CS_datagridview_button.pdb
